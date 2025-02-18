@@ -31,7 +31,6 @@
             initializedDevicesVieButton = new Button();
             newDeviceInitializeButton = new Button();
             autoBackupCheckbox = new CheckBox();
-            textBox1 = new TextBox();
             SuspendLayout();
             // 
             // initializedDevicesVieButton
@@ -52,6 +51,7 @@
             newDeviceInitializeButton.TabIndex = 2;
             newDeviceInitializeButton.Text = "Initialize a new device";
             newDeviceInitializeButton.UseVisualStyleBackColor = true;
+            newDeviceInitializeButton.Click += newDeviceInitializeButton_Click;
             // 
             // autoBackupCheckbox
             // 
@@ -65,20 +65,11 @@
             autoBackupCheckbox.UseVisualStyleBackColor = true;
             autoBackupCheckbox.CheckedChanged += autoBackupCheckbox_CheckedChanged;
             // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(118, 10);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 4;
-            textBox1.TextChanged += textBox1_TextChanged;
-            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(230, 131);
-            Controls.Add(textBox1);
             Controls.Add(autoBackupCheckbox);
             Controls.Add(newDeviceInitializeButton);
             Controls.Add(initializedDevicesVieButton);
@@ -92,6 +83,5 @@
         private Button initializedDevicesVieButton;
         private Button newDeviceInitializeButton;
         private CheckBox autoBackupCheckbox;
-        private TextBox textBox1;
     }
 }
