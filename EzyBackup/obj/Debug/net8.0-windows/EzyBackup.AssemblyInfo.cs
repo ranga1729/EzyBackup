@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EzyBackup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4424280fb24b01001f374475a7a14fc2389a015c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EzyBackup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EzyBackup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

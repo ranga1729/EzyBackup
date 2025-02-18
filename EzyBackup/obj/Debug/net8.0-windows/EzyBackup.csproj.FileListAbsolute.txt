@@ -15,3 +15,8 @@ C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\refint\EzyBa
 C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.pdb
 C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.genruntimeconfig.cache
 C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\ref\EzyBackup.dll
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.NewDeviceInitializeForm.resources
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.sourcelink.json
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.csproj.AssemblyReference.cache
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.csproj.Up2Date
