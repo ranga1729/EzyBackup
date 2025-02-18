@@ -1,0 +1,17 @@
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\bin\Debug\net8.0-windows\EzyBackup.exe
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\bin\Debug\net8.0-windows\EzyBackup.deps.json
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\bin\Debug\net8.0-windows\EzyBackup.runtimeconfig.json
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\bin\Debug\net8.0-windows\EzyBackup.dll
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\bin\Debug\net8.0-windows\EzyBackup.pdb
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.InitializedDevicesListForm.resources
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.MainForm.resources
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.csproj.GenerateResource.cache
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.AssemblyInfoInputs.cache
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.AssemblyInfo.cs
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.csproj.CoreCompileInputs.cache
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.dll
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\refint\EzyBackup.dll
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.pdb
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\EzyBackup.genruntimeconfig.cache
+C:\Users\ranga\Desktop\EzyBackup\EzyBackup\obj\Debug\net8.0-windows\ref\EzyBackup.dll

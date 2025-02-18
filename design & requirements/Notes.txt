@@ -1,0 +1,9 @@
+1. The tool must identify each removable drive connects to the computer. 
+2. Dashboard must have a button to enable or disable auto backup.
+ If autoback is enabled, tool must actively looking for the newly connected removable devices and check if they are initialized as backup drives or not. if it detects a initialized drive, backup will be automaticall performed.
+ If disabled, it will not perform auto backups. 
+
+3. Dashboard must shows button to see a list of removable devices initialized by this computer. if they are connected, they will be shown as green. If not, in red. It must shows a indicator if they are updated or not(green - updated, blue/rotating - backup in process, red - backup required)
+4. Each removable device, initialized as a backup drive must has a option to enable/disable autobackup.
+3. There must be a button to initialize a new drive as a easy backup drive. 
+4. 
