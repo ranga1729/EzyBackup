@@ -5,29 +5,38 @@ namespace EzyBackup
 {
     public partial class MainForm : Form
     {
-        ApplicationData applicationData = new ApplicationData();
+        ApplicationData applicationData;
         InitializedDevicesListForm? deviceListForm;
         NewDeviceInitializeForm? newDeviceInitializeForm;
 
         public MainForm()
         {
             InitializeComponent();
-            autoBackupCheckbox.CheckState = CheckState.Checked;
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            applicationData = ApplicationData.Load();
+            autoBackupCheckbox.CheckState = applicationData.AutoBackup ? CheckState.Checked : CheckState.Unchecked;
+        }
+
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            applicationData.Save();
         }
 
         private void autoBackupCheckbox_CheckedChanged(object sender, EventArgs e)
         {
             applicationData.AutoBackup = autoBackupCheckbox.Checked;
-            //textBox1.Text = autoBackupCheckbox.CheckState.ToString();
         }
 
         private void initializedDevicesVieButton_Click(object sender, EventArgs e)
         {
             if (deviceListForm != null)
             {
-                
+
                 deviceListForm.Show();
-            } 
+            }
             else
             {
                 deviceListForm = new InitializedDevicesListForm();
@@ -41,12 +50,12 @@ namespace EzyBackup
             {
 
                 newDeviceInitializeForm.Show();
-            } 
+            }
             else
             {
                 newDeviceInitializeForm = new NewDeviceInitializeForm();
                 newDeviceInitializeForm.Show();
-            } 
+            }
         }
     }
 }

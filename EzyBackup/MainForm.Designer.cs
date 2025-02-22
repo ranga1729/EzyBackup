@@ -75,6 +75,8 @@
             Controls.Add(initializedDevicesVieButton);
             Name = "MainForm";
             Text = "MainForm";
+            FormClosing += MainForm_FormClosing;
+            Load += MainForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }

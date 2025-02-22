@@ -12,40 +12,44 @@ namespace EzyBackup
 {
     public class ApplicationData
     {
-        public static string FilePath => "settings.json";
+        private const string FilePath = "settings.json";
 
         public bool AutoBackup { get; set; }
         public List<InitializedDevice>? InitializedDeviceList { get; set; }
 
-        public ApplicationData()
+        private ApplicationData() { }
+
+        public static ApplicationData Load()
         {
             if (File.Exists(FilePath))
             {
                 try
                 {
                     string json = File.ReadAllText(FilePath);
-                    var loadedSettings = JsonConvert.DeserializeObject<ApplicationData>(json) ?? new ApplicationData();
-
-                    this.AutoBackup = loadedSettings.AutoBackup;
-                    this.InitializedDeviceList = loadedSettings.InitializedDeviceList ?? new List<InitializedDevice>();
+                    var loadedSettings = JsonConvert.DeserializeObject<ApplicationData>(json);
+                    return loadedSettings ?? CreateDefault();
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine($"Error loading settings: {ex.Message}");
-                    SetDefaults();
+                    return CreateDefault();
                 }
             }
             else
             {
-                SetDefaults();
-                Save();
+                var defaultSettings = CreateDefault();
+                defaultSettings.Save();
+                return defaultSettings;
             }
         }
 
-        private void SetDefaults()
+        private static ApplicationData CreateDefault()
         {
-            AutoBackup = true;
-            InitializedDeviceList = new List<InitializedDevice>();
+            return new ApplicationData
+            {
+                AutoBackup = true,
+                InitializedDeviceList = new List<InitializedDevice>()
+            };
         }
 
         public void Save()
@@ -54,4 +58,5 @@ namespace EzyBackup
             File.WriteAllText(FilePath, json);
         }
     }
+
 }

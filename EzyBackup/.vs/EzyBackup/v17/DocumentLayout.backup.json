@@ -3,27 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|c:\\users\\ranga\\desktop\\ezybackup\\ezybackup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|c:\\users\\ranga\\desktop\\ezybackup\\ezybackup\\applicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:applicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|c:\\users\\ranga\\desktop\\ezybackup\\ezybackup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|c:\\users\\ranga\\desktop\\ezybackup\\ezybackup\\initializeddevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:initializeddevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|c:\\users\\ranga\\desktop\\ezybackup\\ezybackup\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|c:\\users\\ranga\\desktop\\ezybackup\\ezybackup\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|c:\\users\\ranga\\desktop\\ezybackup\\ezybackup\\newdeviceinitializeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\newdeviceinitializeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D653DF08-8CB9-45CA-908D-5F36CEEF06DB}|EzyBackup.csproj|solutionrelative:newdeviceinitializeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -59,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T15:56:18.24Z",
               "IsPinned": true,
@@ -73,27 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\MainForm.Designer.cs",
-              "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:00:17.865Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationData.cs",
               "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\ApplicationData.cs",
               "RelativeDocumentMoniker": "ApplicationData.cs",
               "ToolTip": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\ApplicationData.cs",
               "RelativeToolTip": "ApplicationData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T16:55:20.233Z",
               "IsPinned": true,
@@ -105,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InitializedDevice.cs",
               "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\InitializedDevice.cs",
               "RelativeDocumentMoniker": "InitializedDevice.cs",
@@ -113,24 +95,22 @@
               "RelativeToolTip": "InitializedDevice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T17:24:46.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T17:24:46.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "NewDeviceInitializeForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\NewDeviceInitializeForm.cs",
               "RelativeDocumentMoniker": "NewDeviceInitializeForm.cs",
               "ToolTip": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\NewDeviceInitializeForm.cs [Design]",
               "RelativeToolTip": "NewDeviceInitializeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:33:37.509Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-18T16:33:37.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "InitializedDevicesListForm.cs",
               "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\InitializedDevicesListForm.cs",
               "RelativeDocumentMoniker": "InitializedDevicesListForm.cs",
@@ -143,15 +123,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "InitializedDevicesListForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\InitializedDevicesListForm.cs",
               "RelativeDocumentMoniker": "InitializedDevicesListForm.cs",
               "ToolTip": "C:\\Users\\ranga\\Desktop\\EzyBackup\\EzyBackup\\InitializedDevicesListForm.cs [Design]",
               "RelativeToolTip": "InitializedDevicesListForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:18:39.077Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-18T16:18:39.077Z"
             }
           ]
         }
